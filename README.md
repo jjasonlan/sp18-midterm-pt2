@@ -1,5 +1,7 @@
 # Midterm Part 2, Frontend  Code
 
+Group members: Jason Lan, Conner Lambden, Jeremiah Hsu
+
 We've already setup the infastructure for you. You just need to implement a couple of methods that will be used to 1) log events that we will generate by interacting with the truffle console, and 2) send ether to our multi-sig wallet contract using our local web3. 
 
 **Before doing anything type 'npm install'** from the command line. This will grab all the dependencies we need to run our react app. It might take a minute or so to run. 
